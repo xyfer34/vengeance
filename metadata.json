@@ -1,0 +1,6 @@
+{
+  "name": "Vengeance OS",
+  "description": "A premium, cinematic intelligence operating system for elite detectives and problem-solvers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
